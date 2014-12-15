@@ -2,7 +2,7 @@ archey
 archlinux-themes-slim
 chromium
 empathy
-evince (visionneuse de document)
+evince
 filezilla
 gimp
 gedit
