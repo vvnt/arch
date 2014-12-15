@@ -1,0 +1,39 @@
+background yes
+use_xft yes
+xftfont monospace:size=8
+xftalpha .4
+update_interval 5.0
+total_run_times 0
+own_window yes
+own_window_transparent yes
+own_window_type desktop
+own_window_hints undecorated,below,sticky,skip_taskbar,skip_pager
+own_window_colour black
+double_buffer yes
+minimum_size 1 1
+maximum_width 240
+draw_shades no
+draw_outline no
+draw_borders no
+draw_graph_borders no
+default_color d9d9d9 
+default_shade_color 000000
+default_outline_color d9d7d6
+alignment tl
+gap_x 25
+gap_y 600
+no_buffers yes
+uppercase no
+cpu_avg_samples 2
+override_utf8_locale no
+color1 red
+color2 gray
+##############################################
+#  Output
+##############################################
+TEXT
+temp: $alignr$acpitemp${iconv_start UTF-8 ISO_8859-1}°${iconv_stop}C
+ram: $alignr$mem
+root: $alignr${fs_used /root}/ ${fs_size /root}
+home: $alignr${fs_used /home}/ ${fs_size /home}
+down: ${totaldown wlp12s0}$alignr up: ${totalup wlp12s0}
