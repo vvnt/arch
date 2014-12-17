@@ -28,4 +28,5 @@ ttf-dejavu
 vlc
 volwheel
 xdg-user-dirs
+xf86-video-intel
 youtube-dl
