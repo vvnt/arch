@@ -1,6 +1,7 @@
 archey
 archlinux-themes-slim
 chromium
+conky
 empathy
 evince
 filezilla
