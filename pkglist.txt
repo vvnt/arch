@@ -24,6 +24,7 @@ rhythmbox
 skype
 slim
 tint2
+ttf-dejavu
 vlc
 volwheel
 xdg-user-dirs
