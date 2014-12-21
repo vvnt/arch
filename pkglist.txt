@@ -1,13 +1,9 @@
-archey
-archlinux-themes-slim
 chromium
 conky
 empathy
 evince
 filezilla
-gimp
 gedit
-inkscape
 lxappearance
 midori
 nano
@@ -23,9 +19,7 @@ pwgen
 ranger
 rhythmbox
 skype
-slim
 tint2
-transmission
 ttf-dejavu
 vlc
 volwheel
