@@ -1,4 +1,4 @@
 arch
 ====
 
-Archi linux set-up
+Arch linux set-up
